@@ -149,6 +149,10 @@ button {
 	text-transform: uppercase;
 }
 
+button:hover {
+	cursor: pointer;
+}
+
 form p {
 	margin-inline: 1rem;
 	text-align: center;
